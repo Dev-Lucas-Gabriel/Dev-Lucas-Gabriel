@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Olá, sejam bem-vindos(as) ao meu Github 
-Sistemas operacionais:
+### Sistemas operacionais:
 !LAPTOP-OS [https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white]
 !SMARTPHONE-OS [https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white]
 
@@ -26,8 +26,7 @@ Sistemas operacionais:
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Lucas-Gabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-Principais tecnologias:
-
+### Principais tecnologias:
 <div style= "display: inline_block">
     <img align = "center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align = "center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -37,7 +36,7 @@ Principais tecnologias:
     <img align = "center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
-Contatos:
+### Contatos:
 <div>
 <a href = "mailto:dev.lucasgabriel1@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/#" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
